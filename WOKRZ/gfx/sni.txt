@@ -1,0 +1,11 @@
+🔗 https://snips.sh/docs/terms-of-service.md
+┃ File Uploaded 📤                                  
+┃ id: SuUcj6kw21                                    
+┃ size: 35 kB • type: plaintext • visibility: public
+┃ SSH 📠                   
+┃ ssh f:SuUcj6kw21@snips.sh
+┃ URL 🔗                       
+┃ https://snips.sh/f/SuUcj6kw21
+
+--- 
+https://snips.sh/f/SuUcj6kw21
