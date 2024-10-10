@@ -1,0 +1,14 @@
+[project]
+name = "w177310alib"
+version = "0.1.0"
+description = "BigTHaang"
+readme = "README.md"
+authors = [
+    { name = "K0unty", email = "119057948+K0unty@users.noreply.github.com" } 
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
