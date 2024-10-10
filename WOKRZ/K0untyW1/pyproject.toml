@@ -1,16 +1,16 @@
 [project]
-name = "w177310alib"
+name = "k0untyw1"
 version = "0.1.0"
-description = "BigTHaang"
+description = "Add your description here"
 readme = "README.md"
 authors = [
     { name = "K0unty", email = "119057948+K0unty@users.noreply.github.com" } 
 ]
 requires-python = ">=3.12"
-dependencies = [
-    "requests>=2.32.3",
-    "rich>=13.9.2",
-]
+dependencies = []
+
+[project.scripts]
+k0untyw1 = "k0untyw1:main"
 
 [build-system]
 requires = ["hatchling"]
